@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"flag"
-	"github.com/patrickjmcd/chatgpt-cli/pkg"
+	"github.com/patrickjmcd/openai-cli/pkg"
 	openai "github.com/sashabaranov/go-openai"
 	"log"
 	"os"
